@@ -1,2 +1,2 @@
 # Mayer-Landscape-App
-Senior Project 2018
+Tyler Mayer Senior Project 2018
